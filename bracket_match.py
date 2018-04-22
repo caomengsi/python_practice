@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #栈在括号匹配中的应用
+#http://www.cnblogs.com/linxiyue/p/3556875.html
 class Stack:
     def __init__(self):
         self.stack=[]
